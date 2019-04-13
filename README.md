@@ -1,2 +1,2 @@
 # IntegrationTestWithSpock
-Code to illustrate Integration Testing with Spock
+This repository shows how to use Spock for BDD style end to end tests.
